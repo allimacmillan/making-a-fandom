@@ -1,0 +1,15 @@
+html {background-color: #f48d8d; font-family: 'Karla', sans-serif;}
+h1 {text-align: center; font-size: 400%;}
+#links {text-align: center;}
+#mainPhoto {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.paragraph {
+  width: 30%;
+  float:left;
+  padding: 20px;
+}
